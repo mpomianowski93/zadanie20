@@ -1,0 +1,42 @@
+body {
+	background-color: blanchedalmond;
+}
+h1 {
+	background-color: #600960;
+	color: white;
+}
+h1 + p {
+	background-color: #909090;
+	color: blue;
+}
+h2 {
+	background-color: #128341;
+	color: aqua;
+}
+h2 + p {
+	background-color: deeppink;
+	color: #191919;
+}
+ol {
+	background-color: rgb(200, 140, 200);
+}
+#item1 {
+	background-color: azure;
+	color: red;
+}
+#item2 {
+	background-color: deepskyblue;
+	color: rgb(180, 130, 0);
+}
+#item3 {
+	background-color: burlywood;
+	color: green;
+}
+#item4 {
+	background-color: greenyellow;
+	color: khaki;
+}
+#item5 {
+	background-color: #123323;
+	color: azure;
+}
